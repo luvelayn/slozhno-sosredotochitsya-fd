@@ -18,7 +18,7 @@
     --hover-color: rgba(50, 49, 45, 0.4);
 
     --bg-color: #FFF1F7;
-    --bg-image: url('/images/cover-image-light.png');  
+    --bg-image: url('/images/cover-image-light.png');
   }
 
   .theme-auto .info__title {

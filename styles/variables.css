@@ -18,14 +18,14 @@
   --main-section-padding: 40px;
   --gap-small: 10px;
   --gap-big: 20px;
-  --gap-section: 50px; 
+  --gap-section: 50px;
 }
 
 @media (width >= 768px) {
   :root {
     --main-content-padding: 20px;
     --main-section-padding: 60px;
-    --gap-section: 80px; 
+    --gap-section: 80px;
     --main-title-font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   }
 }
